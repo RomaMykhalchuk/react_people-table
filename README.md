@@ -1,5 +1,7 @@
 # React - People table
 
+<a href="https://romamykhalchuk.github.io/react_people-table/#/">DEMO</a>
+
 Features:
 - React Router - `HomePage` available at `/` with just a title `Home page`, `PeoplePage` available at `/people` with a title `Peope page`, redirecting to `/` from `/home`. `NotFoundPage` with a title `Page not found` is shown for all the other URLs
 - Fetching `people` from API when `PeoplePage` is opened
